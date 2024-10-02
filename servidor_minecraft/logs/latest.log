@@ -697,3 +697,30 @@ com.google.gson.JsonSyntaxException: Missing field template
 [02Oct2024 01:56:10.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
 [02Oct2024 01:56:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 has made the advancement [We Need to Go Deeper]
 [02Oct2024 01:56:59.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33723ms or 674 ticks behind
+[02Oct2024 02:00:45.339] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Oct2024 02:00:45.350] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@dbb3c9a[id=<null>,name=cmata12,properties={},legacy=false] (/127.212.202.183:45211): Unexpected custom data from client
+[02Oct2024 02:00:45.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dbb3c9a[id=<null>,name=cmata12,properties={},legacy=false] (/127.212.202.183:45211) lost connection: Unexpected custom data from client
+[02Oct2024 02:01:06.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 was blown up by yue_chan17
+[02Oct2024 02:01:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 has made the advancement [Your First Grave]
+[02Oct2024 02:01:06.174] [Server thread/INFO] [tombstone/]: The player yue_chan17 has successfully been saved
+[02Oct2024 02:01:31.485] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Oct2024 02:01:31.486] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@582db411[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:33069): Unexpected custom data from client
+[02Oct2024 02:01:31.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@582db411[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:33069) lost connection: Unexpected custom data from client
+[02Oct2024 02:02:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 has made the advancement [A Terrible Fortress]
+[02Oct2024 02:02:15.989] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f8f9d87[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:44633) lost connection: Disconnected
+[02Oct2024 02:02:29.057] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-405, y=-54, z=-38}
+[02Oct2024 02:02:29.058] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-34}
+[02Oct2024 02:02:29.058] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-54, z=-38}
+[02Oct2024 02:02:29.059] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-54, z=-42}
+[02Oct2024 02:03:30.037] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1239ad[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:48007) lost connection: Disconnected
+[02Oct2024 02:05:23.066] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Oct2024 02:05:23.067] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1fa5f4dd[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:46443): Unexpected custom data from client
+[02Oct2024 02:05:23.086] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fa5f4dd[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:46443) lost connection: Unexpected custom data from client
+[02Oct2024 02:05:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 has made the advancement [Monster Hunter]
+[02Oct2024 02:06:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 has made the advancement [Stone Age]
+[02Oct2024 02:06:55.067] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Oct2024 02:06:55.067] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@417ecc62[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:54097): Unexpected custom data from client
+[02Oct2024 02:06:55.104] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@417ecc62[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:54097) lost connection: Unexpected custom data from client
+[02Oct2024 02:09:07.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15b4a187[id=<null>,name=Luciano35,properties={},legacy=false] (/127.202.129.222:50843) lost connection: Disconnected
+[02Oct2024 02:09:09.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yue_chan17 was slain by Bone Serpent
+[02Oct2024 02:09:09.904] [Server thread/INFO] [tombstone/]: The player yue_chan17 has successfully been saved
