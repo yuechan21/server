@@ -1,0 +1,57 @@
+{
+  "inflatableglaceon:new_inflatable_trainer": {
+    "criteria": {
+      "new_inflatable_trainer_0": "2024-10-02 01:53:19 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-10-02 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-10-02 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-10-02 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "weaponmaster:parts/root": {
+    "criteria": {
+      "crafting_table": "2024-10-02 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "sololeveling:awakened": {
+    "criteria": {
+      "awakened": "2024-10-02 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "warden_curse:sekiroo": {
+    "criteria": {
+      "sekiroo_0": "2024-10-02 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-10-02 01:53:21 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-10-02 01:53:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
