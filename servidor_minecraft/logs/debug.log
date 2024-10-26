@@ -7842,3 +7842,55 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
 [19:56:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:56:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was killed by magic
+[19:58:56] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:115, y:68, z:-508] in the dimension 0
+[19:58:56] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[19:59:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[20:00:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[20:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Cow
+[20:02:06] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:161, y:69, z:-430] in the dimension 0
+[20:02:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Knowledge of Death]
+[20:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Here They Come]
+[20:02:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Cow
+[20:04:24] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:103, y:70, z:-508] in the dimension 0
+[20:04:24] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[20:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Chain Death]
+[20:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
+[20:04:54] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[20:05:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Acquire Hardware]
+[20:06:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Suit Up]
+[20:11:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:11:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:13:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:14:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:14:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:15:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:16:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:17:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

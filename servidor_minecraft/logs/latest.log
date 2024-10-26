@@ -130,3 +130,28 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Sweet dreams]
 [19:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Monster Hunter]
 [19:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[19:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was killed by magic
+[19:58:56] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:115, y:68, z:-508] in the dimension 0
+[19:58:56] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[20:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[20:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[20:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Cow
+[20:02:06] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:161, y:69, z:-430] in the dimension 0
+[20:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Knowledge of Death]
+[20:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Here They Come]
+[20:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Cow
+[20:04:24] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:103, y:70, z:-508] in the dimension 0
+[20:04:24] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[20:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Chain Death]
+[20:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
+[20:04:54] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[20:06:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Acquire Hardware]
+[20:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Suit Up]
