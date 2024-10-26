@@ -454,6 +454,7 @@
       "forest": "2024-10-26 14:18:55 +0000",
       "beaches": "2024-10-26 14:21:43 +0000",
       "ocean": "2024-10-26 14:28:34 +0000",
+      "extreme_hills": "2024-10-26 14:57:48 +0000",
       "river": "2024-10-26 14:20:02 +0000",
       "stone_beach": "2024-10-26 14:54:47 +0000"
     },
@@ -655,6 +656,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-10-26 14:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-10-26 14:57:44 +0000"
     },
     "done": true
   },

@@ -8085,3 +8085,68 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 
 [14:57:42] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 240 times.
 
+[14:58:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:58:32] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 245 times.
+
+[14:58:32] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 245 times.
+
+[14:58:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[14:59:22] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 250 times.
+
+[14:59:22] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 250 times.
+
+[14:59:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:00:12] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 255 times.
+
+[15:00:12] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 255 times.
+
+[15:00:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:01:02] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 260 times.
+
+[15:01:02] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 260 times.
+
+[15:01:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:01:52] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 265 times.
+
+[15:01:52] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 265 times.
+
+[15:01:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:02:42] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 270 times.
+
+[15:02:42] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 270 times.
+
+[15:02:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:03:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:03:32] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 275 times.
+
+[15:03:32] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 275 times.
+
+[15:04:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:04:22] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 280 times.
+
+[15:04:22] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 280 times.
+
+[15:04:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:05:12] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 285 times.
+
+[15:05:12] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 285 times.
+
+[15:05:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:06:02] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 290 times.
+
+[15:06:02] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 290 times.
+
+[15:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
+[15:06:26] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:159, y:62, z:-178] in the dimension 0
+[15:06:26] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:06:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:06:52] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 295 times.
+
+[15:06:52] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 295 times.
+
+[15:07:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:07:42] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 300 times.
+
+[15:07:42] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 300 times.
+
+[15:07:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
