@@ -219,3 +219,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:15:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: yue_chan17 moved wrongly!
 [21:21:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: yue_chan17 moved wrongly!
 [21:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Ashes 'n Bones]
+[21:41:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Ice Bucket Challenge]
+[21:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Human
+[21:48:05] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:101, y:69, z:-523] in the dimension 0
+[21:48:05] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
