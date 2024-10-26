@@ -169,3 +169,9 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:14:45] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
 [15:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
 [15:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[15:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Acquire Hardware]
+[15:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Isn't It Iron Pick]
+[15:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Ashes 'n Bones]
+[15:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
+[15:46:26] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:214, y:28, z:-138] in the dimension 0
+[15:46:26] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
