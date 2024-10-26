@@ -231,3 +231,10 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [21:54:14] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
 [21:54:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
 [22:02:17] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[22:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[22:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[22:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[22:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
+[22:38:37] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:148, y:64, z:-519] in the dimension 0
+[22:38:38] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[22:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]

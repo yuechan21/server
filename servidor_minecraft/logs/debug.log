@@ -8145,3 +8145,24 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [22:26:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:27:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:28:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[22:30:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[22:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[22:31:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:36:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
+[22:38:37] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:148, y:64, z:-519] in the dimension 0
+[22:38:38] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[22:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[22:38:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
