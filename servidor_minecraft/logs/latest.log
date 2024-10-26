@@ -158,3 +158,14 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
 [15:06:26] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:159, y:62, z:-178] in the dimension 0
 [15:06:26] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Villager
+[15:11:42] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:163, y:63, z:-220] in the dimension 0
+[15:11:43] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:13:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
+[15:13:30] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:139, y:63, z:-208] in the dimension 0
+[15:13:30] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Human
+[15:14:45] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:158, y:63, z:-214] in the dimension 0
+[15:14:45] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[15:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
