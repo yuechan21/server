@@ -181,3 +181,4 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
 [15:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
 [15:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[16:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Suit Up]
