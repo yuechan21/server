@@ -182,3 +182,11 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
 [15:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
 [16:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Suit Up]
+[16:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Hot Stuff]
+[16:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was shot by Skeleton
+[16:13:44] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:10, y:68, z:-215] in the dimension 0
+[16:13:44] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[16:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
+[16:17:33] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:84, y:63, z:-324] in the dimension 0
+[16:17:33] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[16:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
