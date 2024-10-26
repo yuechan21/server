@@ -8202,3 +8202,22 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [22:57:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:58:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:59:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:59:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [A Strange Grave's Dust]
+[23:00:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:01:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:02:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
+[23:02:41] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:184, y:69, z:-398] in the dimension 0
+[23:02:41] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[23:02:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:04:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[23:06:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[23:07:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
