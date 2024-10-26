@@ -1,60 +1,60 @@
-[14:17:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:17:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:17:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:17:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[14:17:30] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_422, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[14:17:30] [main/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
-[14:17:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:17:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:17:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:17:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:17:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:17:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[14:17:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:17:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:17:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[14:17:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[14:17:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[14:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[14:17:35] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[14:17:35] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[14:17:35] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[14:17:35] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[14:17:35] [Server thread/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
-[14:17:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
-[14:17:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[14:17:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at CLIENT
-[14:17:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at SERVER
-[14:17:37] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[14:17:38] [Server thread/INFO] [FML]: Found 1441 ObjectHolder annotations
-[14:17:38] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[14:17:38] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[14:17:38] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[14:17:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[14:17:38] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[14:17:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[14:17:38] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[14:17:38] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.0
-[14:17:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:17:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:17:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:17:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:17:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:17:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:17:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:17:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:17:39] [Server thread/INFO] [FML]: Injecting itemstacks
-[14:17:39] [Server thread/INFO] [FML]: Itemstack injection complete
-[14:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[14:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[14:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[14:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[14:17:39] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[14:17:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:17:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[14:17:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:17:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:17:40] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[17:26:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:26:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:26:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:26:57] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[17:26:57] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_422, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[17:26:57] [main/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
+[17:26:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:26:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:26:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:26:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:26:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:26:58] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:26:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:26:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:26:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:26:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:26:59] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[17:27:01] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[17:27:01] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:27:01] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:27:02] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[17:27:02] [Server thread/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
+[17:27:03] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[17:27:03] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:27:03] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at CLIENT
+[17:27:03] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at SERVER
+[17:27:03] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:27:04] [Server thread/INFO] [FML]: Found 1441 ObjectHolder annotations
+[17:27:04] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:27:04] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:27:04] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:27:04] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17:27:04] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.0
+[17:27:04] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:27:04] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[17:27:04] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[17:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[17:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[17:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[17:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[17:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[17:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[17:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[17:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[17:27:05] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:27:05] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[17:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[17:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[17:27:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[17:27:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[17:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[17:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:27:06] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -75,7 +75,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_422]
-[14:17:40] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[17:27:06] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -90,108 +90,28 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_422]
-[14:17:40] [Server thread/INFO] [FML]: Applying holder lookups
-[14:17:40] [Server thread/INFO] [FML]: Holder lookups applied
-[14:17:40] [Server thread/INFO] [FML]: Injecting itemstacks
-[14:17:40] [Server thread/INFO] [FML]: Itemstack injection complete
-[14:17:40] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[14:17:40] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
-[14:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[14:17:40] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[14:17:40] [Server thread/INFO] [FML]: Applying holder lookups
-[14:17:40] [Server thread/INFO] [FML]: Holder lookups applied
-[14:17:40] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@f5b1dfe)
-[14:17:40] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 685 advancements
-[14:17:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@f5b1dfe)
-[14:17:41] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@f5b1dfe)
-[14:17:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[14:17:41] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.world.SRPSaveData:get:77]: nanissss--------asdddddddddddddddddddddddddddddddddddddddd----
-[14:17:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 48%
-[14:17:42] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[14:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.494s)! For help, type "help" or "?"
-[14:17:42] [Server thread/INFO] [journeymap]: global (FirstLoaded) Setting config file to version "5.7.1p3": journeymap.server.global.config
-[14:17:42] [Server thread/INFO] [journeymap]: global (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.global.config
-[14:17:42] [Server thread/INFO] [journeymap]: default (FirstLoaded) Setting config file to version "5.7.1p3": journeymap.server.default.config
-[14:17:42] [Server thread/INFO] [journeymap]: default (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.default.config
-[14:17:42] [Server thread/INFO] [journeymap]: dim0 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim0.config
-[14:17:42] [Server thread/INFO] [journeymap]: dim0 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim0.config
-[14:17:42] [Server thread/INFO] [journeymap]: dim-1 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim-1.config
-[14:17:42] [Server thread/INFO] [journeymap]: dim-1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-1.config
-[14:17:42] [Server thread/INFO] [journeymap]: dim1 (Initialized) Setting config file to version "5.7.1p3": journeymap.server.dim1.config
-[14:17:42] [Server thread/INFO] [journeymap]: dim1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim1.config
-[14:17:43] [Server thread/INFO] [FML]: Unloading dimension -1
-[14:17:43] [Server thread/INFO] [FML]: Unloading dimension 1
-[14:18:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[14:18:54] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,FML@8.0.99.99,tombstone@4.6.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,srparasites@1.9.21,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,jei@4.16.1.1012
-[14:18:54] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[14:18:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[14:18:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: yue_chan17[/127.0.0.1:38098] logged in with entity id 95 at (73.5, 70.0, -101.5)
-[14:18:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 joined the game
-[14:18:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Halloween]
-[14:20:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped yue_chan17
-[14:21:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Stone Age]
-[14:22:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Getting an Upgrade]
-[14:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
-[14:23:19] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:92, y:70, z:-169] in the dimension 0
-[14:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Your First Grave]
-[14:23:19] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[14:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [The Most Useful Key]
-[14:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
-[14:24:06] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:92, y:65, z:-151] in the dimension 0
-[14:24:06] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[14:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Chain Death]
-[14:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
-[14:24:47] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:104, y:78, z:-141] in the dimension 0
-[14:24:47] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[14:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Knowledge of Death]
-[14:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Here They Come]
-[14:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
-[14:25:55] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:96, y:69, z:-167] in the dimension 0
-[14:25:55] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[14:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
-[14:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Monster Hunter]
-[14:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
-[14:36:25] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:90, y:79, z:-168] in the dimension 0
-[14:36:25] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[14:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Sweet dreams]
-[14:51:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [A Strange Grave's Dust]
-[15:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
-[15:06:26] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:159, y:62, z:-178] in the dimension 0
-[15:06:26] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[15:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Villager
-[15:11:42] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:163, y:63, z:-220] in the dimension 0
-[15:11:43] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[15:13:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
-[15:13:30] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:139, y:63, z:-208] in the dimension 0
-[15:13:30] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[15:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Human
-[15:14:45] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:158, y:63, z:-214] in the dimension 0
-[15:14:45] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[15:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
-[15:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
-[15:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Acquire Hardware]
-[15:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Isn't It Iron Pick]
-[15:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Ashes 'n Bones]
-[15:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
-[15:46:26] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:214, y:28, z:-138] in the dimension 0
-[15:46:26] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[15:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was shot by Skeleton
-[15:48:51] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:217, y:29, z:-135] in the dimension 0
-[15:48:51] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[15:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
-[15:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
-[15:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
-[16:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Suit Up]
-[16:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Hot Stuff]
-[16:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was shot by Skeleton
-[16:13:44] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:10, y:68, z:-215] in the dimension 0
-[16:13:44] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[16:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
-[16:17:33] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:84, y:63, z:-324] in the dimension 0
-[16:17:33] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[16:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
-[16:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
-[16:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Adapted Yelloweye
-[16:48:16] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:160, y:67, z:-221] in the dimension 0
-[16:48:16] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
-[16:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[17:27:06] [Server thread/INFO] [FML]: Applying holder lookups
+[17:27:06] [Server thread/INFO] [FML]: Holder lookups applied
+[17:27:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:27:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:27:06] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[17:27:06] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
+[17:27:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[17:27:06] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[17:27:06] [Server thread/INFO] [FML]: Applying holder lookups
+[17:27:06] [Server thread/INFO] [FML]: Holder lookups applied
+[17:27:06] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@30608bca)
+[17:27:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 685 advancements
+[17:27:07] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@30608bca)
+[17:27:07] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@30608bca)
+[17:27:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[17:27:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 78%
+[17:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.947s)! For help, type "help" or "?"
+[17:27:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:27:09] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:27:27] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[17:27:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,FML@8.0.99.99,tombstone@4.6.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,srparasites@1.9.21,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,jei@4.16.1.1012
+[17:27:28] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[17:27:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:27:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: yue_chan17[/127.68.26.108:35019] logged in with entity id 303 at (166.73442337267122, 61.617070359471, -246.69973731366917)
+[17:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 joined the game
