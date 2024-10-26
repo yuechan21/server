@@ -8412,3 +8412,71 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:47:42] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 540 times.
 
 [15:47:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:48:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:48:32] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 545 times.
+
+[15:48:32] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 545 times.
+
+[15:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was shot by Skeleton
+[15:48:51] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:217, y:29, z:-135] in the dimension 0
+[15:48:51] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
+[15:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[15:49:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:49:22] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 550 times.
+
+[15:49:22] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 550 times.
+
+[15:49:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:50:12] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 555 times.
+
+[15:50:12] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 555 times.
+
+[15:50:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:51:02] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 560 times.
+
+[15:51:02] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 560 times.
+
+[15:51:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:51:52] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 565 times.
+
+[15:51:52] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 565 times.
+
+[15:52:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:52:42] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 570 times.
+
+[15:52:42] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 570 times.
+
+[15:52:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:53:32] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 575 times.
+
+[15:53:32] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 575 times.
+
+[15:53:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:54:22] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 580 times.
+
+[15:54:22] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 580 times.
+
+[15:54:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:55:12] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 585 times.
+
+[15:55:12] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 585 times.
+
+[15:55:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:55:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:56:02] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 590 times.
+
+[15:56:02] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 590 times.
+
+[15:56:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:56:52] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 595 times.
+
+[15:56:52] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 595 times.
+
+[15:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[15:57:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:57:42] [Server thread/DEBUG] [FML]: The world 35a76d6d (world) may have leaked: seen 600 times.
+
+[15:57:42] [Server thread/DEBUG] [FML]: The world 3498f3c6 (world) may have leaked: seen 600 times.
+
+[15:58:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

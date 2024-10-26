@@ -175,3 +175,9 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [15:46:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Rupter
 [15:46:26] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:214, y:28, z:-138] in the dimension 0
 [15:46:26] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was shot by Skeleton
+[15:48:51] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:217, y:29, z:-135] in the dimension 0
+[15:48:51] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[15:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
+[15:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[15:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
