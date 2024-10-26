@@ -190,3 +190,4 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:17:33] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:84, y:63, z:-324] in the dimension 0
 [16:17:33] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
 [16:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[16:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
