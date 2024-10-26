@@ -149,3 +149,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [14:25:55] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:96, y:69, z:-167] in the dimension 0
 [14:25:55] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
 [14:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
+[14:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Monster Hunter]
+[14:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by yue_chan17
+[14:36:25] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:90, y:79, z:-168] in the dimension 0
+[14:36:25] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
