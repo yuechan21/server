@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-10-26 21:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-10-26 19:46:43 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-10-26 21:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-10-26 20:06:12 +0000"
@@ -325,6 +337,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-10-26 21:49:41 +0000",
       "cooked_beef": "2024-10-26 20:07:00 +0000",
       "rotten_flesh": "2024-10-26 21:09:49 +0000"
     },
@@ -510,6 +523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-26 21:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-10-26 19:54:52 +0000"
@@ -531,6 +550,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-10-26 19:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-26 21:55:11 +0000"
     },
     "done": true
   },
@@ -731,6 +756,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-10-26 19:41:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2024-10-26 21:52:34 +0000"
     },
     "done": true
   },
