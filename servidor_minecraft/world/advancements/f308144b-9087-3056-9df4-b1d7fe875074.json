@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-10-26 21:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-26 19:56:45 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-10-26 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2024-10-26 21:01:20 +0000"
     },
     "done": true
   },
