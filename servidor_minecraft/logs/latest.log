@@ -256,3 +256,9 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [23:18:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Adapted Arachnida
 [23:18:25] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:108, y:61, z:-520] in the dimension 0
 [23:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[23:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[23:21:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was killed by magic
+[23:21:19] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:137, y:59, z:-446] in the dimension 0
+[23:21:19] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[23:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[23:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
