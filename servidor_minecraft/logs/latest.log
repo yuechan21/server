@@ -191,3 +191,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:17:33] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
 [16:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
 [16:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[16:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Adapted Yelloweye
+[16:48:16] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:160, y:67, z:-221] in the dimension 0
+[16:48:16] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[16:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
