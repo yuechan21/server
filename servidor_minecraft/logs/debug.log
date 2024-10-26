@@ -8276,3 +8276,29 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [23:38:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:38:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:39:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Adapted Manducater
+[23:42:54] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:123, y:68, z:-526] in the dimension 0
+[23:42:54] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[23:43:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[23:44:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[23:49:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
