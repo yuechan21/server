@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advgorepart": {
+    "criteria": {
+      "advgorepart": "2024-10-26 23:29:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-10-26 19:44:02 +0000"
