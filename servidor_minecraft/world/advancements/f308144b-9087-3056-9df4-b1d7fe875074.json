@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-10-26 20:06:12 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-10-26 20:06:12 +0000"
@@ -212,6 +224,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-10-26 19:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
     },
     "done": true
   },
@@ -295,7 +313,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-10-26 20:07:00 +0000"
+      "cooked_beef": "2024-10-26 20:07:00 +0000",
+      "rotten_flesh": "2024-10-26 21:09:49 +0000"
     },
     "done": false
   },
@@ -552,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-10-26 19:41:08 +0000"
@@ -590,6 +615,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-10-26 20:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
     },
     "done": true
   },
@@ -797,6 +828,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-10-26 20:02:41 +0000"
@@ -810,6 +853,12 @@
       "creeper": "2024-10-26 20:14:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
@@ -889,15 +938,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2024-10-26 19:51:10 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-10-26 21:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-10-26 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-10-26 21:13:04 +0000"
     },
     "done": true
   },
