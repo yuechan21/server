@@ -1,60 +1,60 @@
-[18:29:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:29:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:29:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:29:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[18:29:00] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_422, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[18:29:00] [main/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
-[18:29:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:29:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:29:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:29:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:29:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:29:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:29:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:29:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:29:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:29:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:29:02] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[18:29:04] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[18:29:04] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[18:29:04] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[18:29:05] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[18:29:05] [Server thread/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
-[18:29:06] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
-[18:29:06] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[18:29:06] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at CLIENT
-[18:29:06] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at SERVER
-[18:29:07] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[18:29:07] [Server thread/INFO] [FML]: Found 1441 ObjectHolder annotations
-[18:29:07] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[18:29:07] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[18:29:07] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:29:07] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[18:29:07] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[18:29:07] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[18:29:08] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[18:29:08] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.0
-[18:29:08] [Server thread/INFO] [FML]: Applying holder lookups
-[18:29:08] [Server thread/INFO] [FML]: Holder lookups applied
-[18:29:08] [Server thread/INFO] [FML]: Applying holder lookups
-[18:29:08] [Server thread/INFO] [FML]: Holder lookups applied
-[18:29:09] [Server thread/INFO] [FML]: Applying holder lookups
-[18:29:09] [Server thread/INFO] [FML]: Holder lookups applied
-[18:29:09] [Server thread/INFO] [FML]: Applying holder lookups
-[18:29:09] [Server thread/INFO] [FML]: Holder lookups applied
-[18:29:09] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:29:09] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[18:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[18:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[18:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[18:29:09] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[18:29:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:29:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[18:29:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:29:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:29:09] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[19:37:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:37:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:37:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:37:11] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[19:37:11] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_422, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:37:11] [main/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
+[19:37:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:37:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:37:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:37:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:37:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:37:13] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:37:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:37:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:37:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:37:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:37:13] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:37:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:37:15] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[19:37:15] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:37:16] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:37:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:37:16] [Server thread/INFO] [FML]: Searching /workspaces/server/servidor_minecraft/./mods for mods
+[19:37:17] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[19:37:17] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:37:17] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at CLIENT
+[19:37:17] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, srparasites, tombstone] at SERVER
+[19:37:18] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:37:18] [Server thread/INFO] [FML]: Found 1441 ObjectHolder annotations
+[19:37:18] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:37:18] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:37:18] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:37:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:37:19] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[19:37:19] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[19:37:19] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19:37:19] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.0
+[19:37:19] [Server thread/INFO] [FML]: Applying holder lookups
+[19:37:19] [Server thread/INFO] [FML]: Holder lookups applied
+[19:37:20] [Server thread/INFO] [FML]: Applying holder lookups
+[19:37:20] [Server thread/INFO] [FML]: Holder lookups applied
+[19:37:20] [Server thread/INFO] [FML]: Applying holder lookups
+[19:37:20] [Server thread/INFO] [FML]: Holder lookups applied
+[19:37:20] [Server thread/INFO] [FML]: Applying holder lookups
+[19:37:20] [Server thread/INFO] [FML]: Holder lookups applied
+[19:37:20] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:37:20] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:37:20] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[19:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[19:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:37:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:37:20] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -75,7 +75,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_422]
-[18:29:09] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[19:37:20] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -90,22 +90,34 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_422]
-[18:29:09] [Server thread/INFO] [FML]: Applying holder lookups
-[18:29:09] [Server thread/INFO] [FML]: Holder lookups applied
-[18:29:09] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:29:09] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:29:09] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[18:29:09] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
-[18:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[18:29:09] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[18:29:09] [Server thread/INFO] [FML]: Applying holder lookups
-[18:29:09] [Server thread/INFO] [FML]: Holder lookups applied
-[18:29:10] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1fadd7bf)
-[18:29:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 685 advancements
-[18:29:10] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1fadd7bf)
-[18:29:10] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1fadd7bf)
-[18:29:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[18:29:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
-[18:29:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.753s)! For help, type "help" or "?"
-[18:29:12] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:29:12] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:37:20] [Server thread/INFO] [FML]: Applying holder lookups
+[19:37:20] [Server thread/INFO] [FML]: Holder lookups applied
+[19:37:20] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:37:20] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:37:20] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[19:37:20] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
+[19:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:37:20] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:37:21] [Server thread/INFO] [FML]: Applying holder lookups
+[19:37:21] [Server thread/INFO] [FML]: Holder lookups applied
+[19:37:21] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2a99499e)
+[19:37:21] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 685 advancements
+[19:37:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2a99499e)
+[19:37:21] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2a99499e)
+[19:37:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.698s)! For help, type "help" or "?"
+[19:37:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:37:22] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:37:48] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[19:37:48] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,FML@8.0.99.99,tombstone@4.6.8,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,srparasites@1.9.21,mcp@9.42,nocubessrpnests@3.0.0,journeymap@1.12.2-5.7.1p3,jei@4.16.1.1012
+[19:37:48] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[19:37:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:37:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: yue_chan17[/127.68.26.108:59541] logged in with entity id 102 at (212.5, 65.0, -235.5)
+[19:37:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 joined the game
+[19:37:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Halloween]
+[19:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> s
+[19:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Stone Age]
+[19:41:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[19:41:46] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [9, -29] in dimension 0 (overworld) while populating chunk [8, -29], causing cascading worldgen lag.
+[19:41:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:44:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Getting an Upgrade]
