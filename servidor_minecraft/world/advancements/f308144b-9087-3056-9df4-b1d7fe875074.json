@@ -362,6 +362,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-10-26 23:59:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-10-26 19:54:52 +0000"
@@ -734,6 +740,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advbreakacid": {
+    "criteria": {
+      "advbreakacid": "2024-10-26 23:49:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/halloween": {
     "criteria": {
       "coded_trigger": "2024-10-26 19:37:49 +0000"
@@ -1007,6 +1019,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-10-26 19:59:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-10-26 23:50:12 +0000"
     },
     "done": true
   },

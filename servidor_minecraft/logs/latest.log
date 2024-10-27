@@ -280,3 +280,17 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [23:49:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
 [23:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
 [23:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:50:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:50:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:50:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has made the advancement [Neighborhood Brawl]
+[23:50:18] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:cat
+[23:50:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:50:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:50:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:50:22] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:cat
+[23:50:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[23:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:50:32] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:cat
+[23:50:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to yue_chan17]
+[23:59:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Bone Crusher]
