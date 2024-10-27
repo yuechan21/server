@@ -8404,3 +8404,44 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [00:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Adapted Arachnida
 [00:40:44] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:101, y:64, z:-593] in the dimension 0
 [00:40:44] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[00:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[00:41:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:41:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:42:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:43:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:45:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:46:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[00:47:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:47:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[00:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:48:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[00:50:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:51:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yue_chan17> t
+[00:51:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:52:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:53:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:54:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:55:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Enderman
+[00:56:13] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:54, y:64, z:-526] in the dimension 0
+[00:56:13] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[00:56:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: yue_chan17 lost connection: Disconnected
+[00:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 left the game
+[00:56:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:57:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:58:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:59:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:59:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:00:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
