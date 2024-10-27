@@ -8330,3 +8330,25 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [23:59:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:59:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 has reached the goal [Bone Crusher]
 [23:59:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 tried to swim in lava
+[00:01:16] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:163, y:65, z:-540] in the dimension 0
+[00:01:16] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[00:01:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[00:02:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:03:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:06:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:07:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:08:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:08:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:09:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:09:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Assimilated Human
+[00:09:57] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:153, y:68, z:-354] in the dimension 0
+[00:09:57] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
+[00:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
