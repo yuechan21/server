@@ -8384,3 +8384,23 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [00:28:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:29:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:29:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:30:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:31:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:32:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:32:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:33:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:34:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:35:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:35:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:36:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:37:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Creative Mode]
+[00:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [yue_chan17: Set own game mode to Survival Mode]
+[00:38:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:38:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:39:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:40:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yue_chan17 was slain by Adapted Arachnida
+[00:40:44] [Server thread/INFO] [tombstone]: The last known grave of yue_chan17 is at location [name:Last Grave, x:101, y:64, z:-593] in the dimension 0
+[00:40:44] [Server thread/INFO] [tombstone]: yue_chan17 has successfully been saved
